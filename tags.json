@@ -1,62 +1,46 @@
-
-+  {
-+    "playerName": "Flazukyy",
-+    "tagLabel": "skidnga",
-+    "color": {
-+      "r": 1.0,
-+      "g": 0.0,
-+      "b": 0.0,
-+      "a": 1.0
-+    }
-+  },
-+  {
-+    "playerName": "CoolGuy420",
-+    "tagLabel": "Friend",
-+    "color": {
-+      "r": 0.0,
-+      "g": 1.0,
-+      "b": 0.0,
-+      "a": 1.0
-+    }
-+  },
-+  {
-+    "playerName": "AdminBot",
-+    "tagLabel": "Admin",
-+    "color": {
-+      "r": 1.0,
-+      "g": 1.0,
-+      "b": 0.0,
-+      "a": 1.0
-+    }
-+  },
-+  {
-+    "playerName": "SuspiciousUser",
-+    "tagLabel": "Watch",
-+    "color": {
-+      "r": 1.0,
-+      "g": 0.5,
-+      "b": 0.0,
-+      "a": 1.0
-+    }
-+  },
-+  {
-+    "playerName": "TrustedPlayer",
-+    "tagLabel": "Safe",
-+    "color": {
-+      "r": 0.0,
-+      "g": 0.5,
-+      "b": 1.0,
-+      "a": 1.0
-+    }
-+  },
-+  {
-+    "playerName": "KnownHacker",
-+    "tagLabel": "Ban",
-+    "color": {
-+      "r": 0.5,
-+      "g": 0.0,
-+      "b": 1.0,
-+      "a": 1.0
-+    }
-+  }
-+]
+[
+  {
+    "userId": "usr_baff56e3-a2ec-4e10-8d77-5a5f505bf367",
+    "id": 1,
+    "malicious": false,
+    "active": true,
+    "textActive": true,
+    "bigTextActive": false,
+    "bigText": "Skid",
+    "size": "large",
+    "tags": ["Newgen", "Flazukyy"]
+  },
+  {
+    "userId": "usr_99999zzzzzzzzzzz",
+    "id": 2,
+    "malicious": true,
+    "active": true,
+    "textActive": true,
+    "bigTextActive": true,
+    "bigText": "BANNED",
+    "size": "large",
+    "tags": ["hacker"]
+  },
+  {
+    "userId": "usr_abcdef1234567890",
+    "id": 3,
+    "malicious": false,
+    "active": true,
+    "textActive": false,
+    "bigTextActive": false,
+    "bigText": "",
+    "size": "medium",
+    "tags": ["waffle"]
+  },
+  {
+    "userId": "usr_skidder420blazeit",
+    "id": 4,
+    "malicious": false,
+    "active": true,
+    "textActive": true,
+    "bigTextActive": true,
+    "bigText": "SKIDDER",
+    "size": "large",
+    "tags": ["heart", "hacker"]
+  }
+]
