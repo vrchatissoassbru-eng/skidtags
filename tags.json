@@ -8,7 +8,8 @@
     "bigTextActive": false,
     "bigText": "Skid",
     "size": "large",
-    "tags": ["Newgen", "Flazukyy"]
+    "username": "Flazukyy",
+    "tags": ["Newgen", "heart"]
   },
   {
     "userId": "usr_99999zzzzzzzzzzz",
@@ -19,6 +20,7 @@
     "bigTextActive": true,
     "bigText": "BANNED",
     "size": "large",
+    "username": "skidder",
     "tags": ["hacker"]
   },
   {
@@ -30,6 +32,7 @@
     "bigTextActive": false,
     "bigText": "",
     "size": "medium",
+    "username": "waffle_guy",
     "tags": ["waffle"]
   },
   {
@@ -41,6 +44,8 @@
     "bigTextActive": true,
     "bigText": "SKIDDER",
     "size": "large",
+    "username": "skidder420",
     "tags": ["heart", "hacker"]
   }
 ]
+
