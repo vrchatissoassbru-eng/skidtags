@@ -1,1 +1,62 @@
-flazukyy:SkidbossHacker
+
++  {
++    "playerName": "Flazukyy",
++    "tagLabel": "skidnga",
++    "color": {
++      "r": 1.0,
++      "g": 0.0,
++      "b": 0.0,
++      "a": 1.0
++    }
++  },
++  {
++    "playerName": "CoolGuy420",
++    "tagLabel": "Friend",
++    "color": {
++      "r": 0.0,
++      "g": 1.0,
++      "b": 0.0,
++      "a": 1.0
++    }
++  },
++  {
++    "playerName": "AdminBot",
++    "tagLabel": "Admin",
++    "color": {
++      "r": 1.0,
++      "g": 1.0,
++      "b": 0.0,
++      "a": 1.0
++    }
++  },
++  {
++    "playerName": "SuspiciousUser",
++    "tagLabel": "Watch",
++    "color": {
++      "r": 1.0,
++      "g": 0.5,
++      "b": 0.0,
++      "a": 1.0
++    }
++  },
++  {
++    "playerName": "TrustedPlayer",
++    "tagLabel": "Safe",
++    "color": {
++      "r": 0.0,
++      "g": 0.5,
++      "b": 1.0,
++      "a": 1.0
++    }
++  },
++  {
++    "playerName": "KnownHacker",
++    "tagLabel": "Ban",
++    "color": {
++      "r": 0.5,
++      "g": 0.0,
++      "b": 1.0,
++      "a": 1.0
++    }
++  }
++]
